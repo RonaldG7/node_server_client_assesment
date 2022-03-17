@@ -1,0 +1,32 @@
+.d-flex {
+    display: flex;
+}
+
+.a-center {
+    align-items: center;
+}
+
+.j-center {
+    justify-content: center;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.s-around {
+    justify-content: space-around;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.ml10 {
+   margin-left: 10px;
+}
+
+.bgColor {
+    height: 100vh;
+    background-color: #f2f2f2;
+}

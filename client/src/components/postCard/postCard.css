@@ -1,0 +1,26 @@
+.card {
+    background-color: #f6f6f6;
+}
+
+.card img {
+    margin: 20px;
+    width: 500px;
+    height: 400px;
+}
+
+.singlePost p {
+    margin-left: 10px;
+    padding: 5px;
+    text-overflow: ellipsis;
+}
+
+.description {
+    height: 180px;
+    text-overflow: ellipsis;
+}
+
+.calendar {
+    background-color: #f6f6f6;
+    display: flex;
+    justify-content: center;
+}

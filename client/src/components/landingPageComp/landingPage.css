@@ -1,0 +1,26 @@
+.bgImg {
+    background-image: url("https://e3.365dm.com/18/06/2048x1152/skynews-hotel-booking-online_4347596.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.loginBtnBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+}
+
+.logo {
+    width: 400px;
+    margin: 10px;
+}
+
+.or {
+    width: 50px;
+    margin: 10px;
+}

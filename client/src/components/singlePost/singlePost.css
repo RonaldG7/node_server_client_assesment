@@ -1,0 +1,22 @@
+.singlePost {
+    background-color: #f6f6f6;
+    margin: 20px;
+    height: 150px;
+}
+
+.singlePost div {
+    cursor: pointer;
+}
+
+.singlePost img {
+    cursor: pointer;
+    margin-right: 10px;
+    height: 150px;
+    width: 200px;
+}
+
+.singlePost p {
+    margin-left: 10px;
+    padding: 5px;
+    text-overflow: ellipsis;
+}

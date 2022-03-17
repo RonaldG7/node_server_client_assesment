@@ -1,0 +1,6 @@
+.toolbar {
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    background-color: #f6f6f6;
+}
