@@ -10,7 +10,7 @@ mongoose.connect(process.env.DB_CONNECTION).then(() => {
     console.log("Database connection successful")
 }).catch(e => {
     console.log(e)
-    console.log("Failed o connect")
+    console.log("Failed to connect")
 })
 
 app.use(session({
